@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.danp_lab08_notification.app-mergeDebugResources-4:/values-v25/values-v25.xml",
+            "map": [
+                {
+                    "source": "E:\\Herramientas\\Implementacion\\Android\\Dependencias\\.gradle\\caches\\transforms-3\\c08d23bedf5da750312d6c94ff6af2f6\\transformed\\appcompat-1.4.2\\res\\values-v25\\values-v25.xml",
+                    "from": {
+                        "startLines": "2,3,4,6",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,126,209,308",
+                        "endLines": "2,3,5,7",
+                        "endColumns": "70,82,12,12",
+                        "endOffsets": "121,204,303,414"
+                    }
+                }
+            ]
+        }
+    ]
+}
